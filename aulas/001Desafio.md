@@ -1,10 +1,3 @@
--Titulos
--Citacao codigo
--Lista ordenada
--Links
--Images
--Emoji
-
 # Alteração tema **zsh**
 
 A escolha por um novo tema pode ser encontrada através do link [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh/wiki/Themes). A seguir temos um exemplo de como pode ser modificado o tema do zsh no ambiente linux.
