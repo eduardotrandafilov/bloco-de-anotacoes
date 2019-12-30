@@ -10,4 +10,8 @@ A escolha por um novo tema pode ser encontrada através do link [ohmyzsh](https:
 
 ![alteracao variavel theme](https://user-images.githubusercontent.com/9969265/71566204-784c1580-2a94-11ea-86c5-d6599cd99a11.png)
 
+3. Após reiniciar o terminal você verá a nova alteração como abaixo:
+
+![tema gnzh](https://user-images.githubusercontent.com/9969265/71566686-5c4a7300-2a98-11ea-8a9e-d0f1d8a4c8f9.png)
+
 É isso , dúvidas só abrir uma **issue** !
