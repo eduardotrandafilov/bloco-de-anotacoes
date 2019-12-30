@@ -15,3 +15,17 @@ A escolha por um novo tema pode ser encontrada através do link [ohmyzsh](https:
 ![tema gnzh](https://user-images.githubusercontent.com/9969265/71566686-5c4a7300-2a98-11ea-8a9e-d0f1d8a4c8f9.png)
 
 É isso , dúvidas só abrir uma **issue** !
+
+# Corrigindo msg do último comit
+
+1. Para desfazer msg último commit podemos utilizar o comando:
+
+```
+git commit --amend
+```
+
+No exemplo temos uma msg que foi comitada de forma errada . Para corrigi-la utilizaremos o comando do item acima.
+
+2. Após uso do `git commit --amend` teremos:
+
+3) Alteração do hash
