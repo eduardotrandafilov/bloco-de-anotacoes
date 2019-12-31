@@ -48,4 +48,4 @@ No caso para linux dar `Ctrl+X` e após visualizar a tela para salvar alteraçõ
 
 ![correcaoMsg](https://user-images.githubusercontent.com/9969265/71567563-c239f900-2a9e-11ea-813c-cf6ba3322b34.png)
 
-É isso pessoal!!!
+É isso pessoal!!! :thumbsup:
