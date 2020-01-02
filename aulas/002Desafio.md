@@ -6,7 +6,7 @@ Projeto loja-fone disponível no zeplin.
 
 ## 1. Básico
 
-> Inserir tamanho da fonte no HTML de acordo com projeto no zeplin.
+> Inserir tamanho da fonte no HTML para os links menu de acordo com projeto no zeplin.
 
 :link:[002-Básico]() :heavy_check_mark:
 
