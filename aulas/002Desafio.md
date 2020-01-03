@@ -14,7 +14,7 @@ Projeto loja-fone disponível no zeplin.
 
 > Alterar a font-family dos itens presentes no header.
 
-:link:[002-Intermediário](https://github.com/eduardotrandafilov/loja-fone/commit/fcd22a3238ba4a7661a791b13ca4bef6db729084) :heavy_check_mark:
+:link:[002-Intermediário](https://github.com/eduardotrandafilov/loja-fone/commit/d994881ed0a5e17e7fc1def745457468f259ed90) :heavy_check_mark:
 
 ## 3. Avançado
 
