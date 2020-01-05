@@ -20,4 +20,4 @@ Projeto loja-fone disponível no zeplin.
 
 > Alinhamento a direita dos links de forma que fiquem alinhados com o Logo e distanciados corretamente do topo da página.
 
-:link:[002-Avançado]() :heavy_check_mark:
+:link:[002-Avançado](https://github.com/eduardotrandafilov/loja-fone/blob/master/header.css) :heavy_check_mark:
