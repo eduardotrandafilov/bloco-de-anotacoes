@@ -18,6 +18,8 @@ Projeto loja-fone disponível no zeplin.
 
 > Centralizar o header verticalmente.
 
+:link:[003-Avançado](https://github.com/eduardotrandafilov/loja-fone/commit/4c86166a0142db8787c3b897acc964f04f87da4a)
+
 ## Extra
 
 > Compartilhar informação com a comunidade (áudio, texto, vídeo) discord.Outro modo é divulgar as informações adquiridas no medium.
